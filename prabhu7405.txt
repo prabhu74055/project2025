@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, GitHub!
+=======
+Edited hello.txt on GitHub
+>>>>>>> e034d4fc898d096e1619cbfd8be6048862d69666
